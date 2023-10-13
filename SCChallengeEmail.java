@@ -46,7 +46,3 @@ public class SCChallengeEmail {
 
     }
 }
-
-// Possible improvements:
-//    - Input sanitisation to ensure the user's input is able to be understood (e.g. no leading whitespace)
-//    - Use regex to search for needed line maybe instead of the crude contains method?
